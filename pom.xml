@@ -8,10 +8,10 @@
         <version>3.0.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.uragenda</groupId>
-    <artifactId>ur-agenda-app</artifactId>
+    <groupId>com.mereminda</groupId>
+    <artifactId>me-reminda-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ur-agenda-app</name>
+    <name>me-reminda-app</name>
     <description>ur-agenda-app</description>
     <properties>
         <java.version>17</java.version>
